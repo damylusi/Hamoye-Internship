@@ -1,5 +1,5 @@
 # Hamoye-Internship
-Every project and task done here is for the Hamoye Data Science Winter '22
+This repository contains every projects and tasks done during my Internship at Hamoye Data Science Winter '22
 
 Stage A is a graded quiz from the Hamoye Introduction to Python for Machine Learning.
 
