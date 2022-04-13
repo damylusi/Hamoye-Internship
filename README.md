@@ -18,3 +18,10 @@ The dataset used http://bit.ly/HDSC-Regression-Dataset
 This is a graded quiz from the Hamoye "Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint" course
 
 This is the Dataset I used https://data.world/footprint/nfa-2019-edition
+
+
+# Stage E
+
+This is a graded quiz from the Hamoye "Practical Time Series Analysis & Forecast" course
+
+This is the Dataset I used https://github.com/HamoyeHQ/HDSC-Time-series-analysis-and-forecast
